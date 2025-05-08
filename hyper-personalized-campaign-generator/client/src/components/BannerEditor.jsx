@@ -1,3 +1,5 @@
+import BannerEditor from '../components/BannerEditor';
+
 import React, { useRef, useEffect, useState } from 'react';
 import { Stage, Layer, Rect, Text } from 'react-konva';
 
